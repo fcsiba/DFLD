@@ -8,7 +8,9 @@ The system will track driver’s facial features like fast blinking, eye closure
 Classifiers like Haar Cascade Classifiers or HOG + linear SVM will be chosen depending on their accuracy and shortest time of computation. EAR (eye aspect ratio) and facial expressions will be used to sense the tiredness of the car driver which will stimulate the system to ring alarms and send warnings consequently. The technical facets of the project will rely on OpenCV and python for facial recognition with Raspberry pi for hardware port connections.
 
 FILES SUBMITTED ARE AS FOLLOWS : 
-dfld.py - main code file
-alarm.wav - alarm file for eye closure
-SOUNDS.wav - sound file for head tilts and yawn
-shape_predictor.dat - model file that is used in dfld.py for detecting faces and landmarks.
+1) dfld.py - main code file
+2) alarm.wav - alarm file for eye closure
+3) SOUNDS.wav - sound file for head tilts and yawn
+4) shape_predictor.dat - model file that is used in dfld.py for detecting faces and landmarks.
+
+Other relevant documents are uploaded as well.
