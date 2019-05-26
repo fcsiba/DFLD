@@ -18,5 +18,4 @@ The packages/libraries needed are :
 
 dlib,cv2,cmake,numpy,scipy,imutils,threading,playsound,argparse,imutils and time.
 
-Once done go to dfld.py script then run it. 
-
+Once done go to dfld.py script then run it your connected camera will be turned on and our DFLD project will start to run.
