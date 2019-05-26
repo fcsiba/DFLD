@@ -9,7 +9,7 @@ FILES SUBMITTED ARE AS FOLLOWS :
 
 Other relevant documents are uploaded as well.
 
-How to run the code? 
+How to run/test the code? 
 
 Answer : 
 First download all the code files from our repository. Copy the files in the same directory make sure all the related files are in single folder. Open some suitable IDE for python like pycharm and open this project from there make sure to install suitable packages for running this project using pip command in python eg : pip install numpy 
